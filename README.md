@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/5859/PedroMDuarte/thesis-lattice.png)](http://dx.doi.org/10.5281/zenodo.11612)
 
 ## Band structure calculations for an optical lattice
 
@@ -8,7 +8,10 @@ methods to calculate the band structure and implement interpolation functions
 of the obtained results to speed up subsequent calculations.  
 
 The Wannier states in the lattice are constructed starting from the eigen-
-states of the Hamiltonian. 
+states of the Hamiltonian.
+
+The tunneling matrix element and the on-site interactions, relevant for the 
+Hubbard model are calculated.  
 
 ## Contributors
 
