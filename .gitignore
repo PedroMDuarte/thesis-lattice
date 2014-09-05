@@ -1,0 +1,98 @@
+# Created by http://www.gitignore.io
+
+## Abel transform png files
+*_abel.png
+
+### Linux ###
+*~
+
+# KDE directory preferences
+.directory
+
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
+
+
+### LaTeX ###
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.nlo
+*.out
+*.pdfsync
+*.ps
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdy
+*.tdo
+
